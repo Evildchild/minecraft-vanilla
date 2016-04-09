@@ -1,6 +1,6 @@
 # Minecraft
 
-[![](https://images.microbadger.com/badges/image/webhippie/minecraft-vanilla.svg)](https://microbadger.com/images/webhippie/minecraft-vanilla "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/webhippie/minecraft-vanilla:1.9.svg)](https://microbadger.com/images/webhippie/minecraft-vanilla:1.9 "Get your own image badge on microbadger.com")
 
 These are docker images for [Vanilla Minecraft](https://minecraft.net) running on a [Java container](https://registry.hub.docker.com/u/webhippie/java/).
 
