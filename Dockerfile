@@ -1,4 +1,4 @@
-FROM webhippie/java:latest
+FROM evildchild/java:latest
 MAINTAINER Thomas Boerger <thomas@webhippie.de>
 
 ENV MINECRAFT_VERSION 1.11.2
